@@ -59,8 +59,8 @@ Carey Cui
 
 Savir Singh
 
-Jimmy Tao
----
+**Jimmy Tao
+**---
 
 ---
 
