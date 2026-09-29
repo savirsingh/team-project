@@ -10,8 +10,8 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### a) Communication
 
-* We will use __________________ (Slack, Discord, email, etc.) as our primary communication channel.
-* Team members will respond to messages within ____ hours on weekdays.
+* We will use Discord as our primary communication channel.
+* Team members will respond to messages within 2 hours on weekdays.
 * All communication will remain respectful, professional, and constructive.
 
 ### b) Attendance & Participation
@@ -29,7 +29,7 @@ This contract sets out shared expectations and commitments for how our team will
 
 * All deliverables should be completed on time, tested, and meet the agreed quality standard.
 * Members agree to review each other’s work constructively.
-* Each Pull Request will be reviewed by at least two team members.
+* Each Pull Request will be reviewed by at least one team members.
 
 ---
 
@@ -55,7 +55,7 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 **Team Member Signatures:**
 
----
+Carey Cui
 
 ---
 
